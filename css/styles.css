@@ -524,6 +524,7 @@ input {
 }
 
 .footer-wrap-soc {
+  margin-right: 80px;
 }
 
 .footer-soc-text {
@@ -623,7 +624,6 @@ input {
 
 .footer-form-icon {
   fill: #ffffff;
-  margin-left: 16px;
 }
 
 .footer-form-input::placeholder {
