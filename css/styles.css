@@ -779,6 +779,10 @@ input {
   margin-bottom: 8px;
 }
 
+.modal-field-comment {
+  margin-bottom: 16px;
+}
+
 .modal-icon {
   position: absolute;
   left: 16px;
